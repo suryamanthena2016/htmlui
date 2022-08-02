@@ -1,0 +1,35 @@
+object:
+   it is physical entity.which has state and behaviour.
+
+   ex:mouse,system,fan,chair...etc
+   
+class:
+   A collection of objects or collections of data members and methods is called class.
+
+A class is a logical entity.
+(or)
+A class is a template or model or blueprint.
+
+classroom:   mouse,system,board,marker..etc
+
+   class name:room
+    objects:mouse,system,marker
+
+  ex:
+    bird:   eyes,legs,wings,fly()
+      class:bird
+   members:eyes,legs,wings...
+   method:fly()
+
+    animal:eyes,legs,tail,walk(),jump()..
+
+ex:  student  :sid,sname,marks,result()
+
+
+     oops features:
+    1)class and object
+    2)inheritance
+   3)polymorphism
+    4)abstraction
+    5)encapsulation
+
